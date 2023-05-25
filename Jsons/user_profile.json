@@ -1,87 +1,96 @@
 {
-    "Marlee Maxwell": {
+    "Holland Proctor": {
         "STRATEGY_B": [
-            "DMART",
-            "BIRLASOFT",
-            "ADANIENT",
-            "COFORGE",
-            "NTPC",
-            "L&T",
-            "POWERGRID"
-        ]
-    },
-    "Sage Morales": {
-        "STRATEGY_D": [
-            "COFORGE",
-            "ADANIENT",
-            "INFY",
-            "ACC",
-            "EICHER"
-        ],
-        "STRATEGY_I": [
             "MINDA",
-            "NTPC",
             "POWERGRID",
-            "HINDALCO"
-        ],
-        "STRATEGY_E": [
-            "JSW",
-            "EICHER",
-            "ADANIENT",
-            "DMART",
-            "L&T",
+            "HINDALCO",
+            "ACC",
+            "BIRLASOFT",
+            "GRASIM",
             "COFORGE",
-            "INFY",
-            "HINDALCO"
+            "L&T",
+            "JSW"
         ],
         "STRATEGY_H": [
-            "ACC",
-            "ADANIENT"
-        ],
-        "STRATEGY_G": [
             "INFY",
-            "BIRLASOFT",
-            "GRASIM",
             "HINDALCO",
             "MINDA",
-            "ACC"
+            "JSW",
+            "DMART",
+            "NTPC"
+        ],
+        "STRATEGY_A": [
+            "POWERGRID"
+        ],
+        "STRATEGY_C": [
+            "COFORGE",
+            "ACC",
+            "POWERGRID",
+            "EICHER",
+            "JSW",
+            "GRASIM",
+            "INFY",
+            "HINDALCO",
+            "DMART",
+            "BIRLASOFT"
         ],
         "STRATEGY_F": [
-            "HINDALCO",
-            "L&T",
-            "MINDA",
-            "COFORGE",
-            "GRASIM",
-            "POWERGRID",
             "NTPC",
-            "EICHER"
-        ]
-    },
-    "Amber Harvey": {
-        "STRATEGY_A": [
-            "EICHER",
-            "DMART",
+            "COFORGE",
+            "JSW",
             "ADANIENT",
-            "L&T",
-            "POWERGRID",
-            "HINDALCO",
-            "ACC",
-            "INFY"
-        ],
-        "STRATEGY_G": [
-            "INFY",
-            "BIRLASOFT",
-            "GRASIM",
-            "HINDALCO",
-            "MINDA",
-            "ACC"
+            "HINDALCO"
         ],
         "STRATEGY_D": [
-            "COFORGE",
+            "DMART",
+            "ACC",
+            "POWERGRID",
+            "EICHER",
+            "JSW",
+            "MINDA"
+        ],
+        "STRATEGY_I": [
             "ADANIENT",
             "INFY",
+            "GRASIM"
+        ]
+    },
+    "Cheyenne Finley": {
+        "STRATEGY_A": [
+            "POWERGRID"
+        ],
+        "STRATEGY_D": [
+            "DMART",
             "ACC",
-            "EICHER"
+            "POWERGRID",
+            "EICHER",
+            "JSW",
+            "MINDA"
+        ]
+    },
+    "Khalani Blankenship": {
+        "STRATEGY_H": [
+            "INFY",
+            "HINDALCO",
+            "MINDA",
+            "JSW",
+            "DMART",
+            "NTPC"
+        ],
+        "STRATEGY_I": [
+            "ADANIENT",
+            "INFY",
+            "GRASIM"
+        ],
+        "STRATEGY_F": [
+            "NTPC",
+            "COFORGE",
+            "JSW",
+            "ADANIENT",
+            "HINDALCO"
+        ],
+        "STRATEGY_A": [
+            "POWERGRID"
         ]
     }
 }

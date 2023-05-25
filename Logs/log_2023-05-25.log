@@ -1,66 +1,161 @@
-root - INFO - 2023-05-25 07:34:32.092286 - Order log initialized.
-root - INFO - 2023-05-25 07:34:55.625182 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'NTPC', 'POSITION': 'SELL'}
-root - ERROR - 2023-05-25 07:34:57.725876 - No buy order found for the given strategy and instrument.
-root - INFO - 2023-05-25 07:34:57.728640 - Order response: No buy order found.
-root - INFO - 2023-05-25 07:34:58.731984 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
-root - ERROR - 2023-05-25 07:35:00.790221 - No buy order found for the given strategy and instrument.
-root - INFO - 2023-05-25 07:35:00.794352 - Order response: No buy order found.
-root - INFO - 2023-05-25 07:35:01.809680 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'MINDA', 'POSITION': 'SELL'}
-root - ERROR - 2023-05-25 07:35:03.860880 - Invalid order received.
-root - INFO - 2023-05-25 07:35:03.862884 - Order response: Invalid order.
-root - INFO - 2023-05-25 07:35:04.868193 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'L&T', 'POSITION': 'BUY'}
-root - ERROR - 2023-05-25 07:35:06.924799 - Invalid order received.
-root - INFO - 2023-05-25 07:35:06.927811 - Order response: Invalid order.
-root - INFO - 2023-05-25 07:35:07.930587 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'GRASIM', 'POSITION': 'SELL'}
-root - ERROR - 2023-05-25 07:35:09.984854 - Invalid order received.
-root - INFO - 2023-05-25 07:35:09.987861 - Order response: Invalid order.
-root - INFO - 2023-05-25 07:35:10.993521 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'SELL'}
-root - ERROR - 2023-05-25 07:35:13.045550 - No buy order found for the given strategy and instrument.
-root - INFO - 2023-05-25 07:35:13.048548 - Order response: No buy order found.
-root - INFO - 2023-05-25 07:35:14.051762 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'EICHER', 'POSITION': 'SELL'}
-root - ERROR - 2023-05-25 07:35:16.098281 - No buy order found for the given strategy and instrument.
-root - INFO - 2023-05-25 07:35:16.101281 - Order response: No buy order found.
-root - INFO - 2023-05-25 07:35:17.102756 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'BUY'}
-root - INFO - 2023-05-25 07:35:19.146484 - Buy order processed.
-root - INFO - 2023-05-25 07:35:19.149615 - Order response: Buy order processed.
-root - INFO - 2023-05-25 07:35:20.154806 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
-root - ERROR - 2023-05-25 07:35:22.213037 - Invalid order received.
-root - INFO - 2023-05-25 07:35:22.215029 - Order response: Invalid order.
-root - INFO - 2023-05-25 07:35:23.224931 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'MINDA', 'POSITION': 'SELL'}
-root - ERROR - 2023-05-25 07:35:25.282281 - Invalid order received.
-root - INFO - 2023-05-25 07:35:25.284456 - Order response: Invalid order.
-root - INFO - 2023-05-25 07:35:26.290982 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'INFY', 'POSITION': 'BUY'}
-root - ERROR - 2023-05-25 07:35:28.341028 - Invalid order received.
-root - INFO - 2023-05-25 07:35:28.343086 - Order response: Invalid order.
-root - INFO - 2023-05-25 07:35:29.360275 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'SELL'}
-root - ERROR - 2023-05-25 07:35:31.409722 - Invalid order received.
-root - INFO - 2023-05-25 07:35:31.411728 - Order response: Invalid order.
-root - INFO - 2023-05-25 07:35:32.414393 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
-root - ERROR - 2023-05-25 07:35:34.451830 - Invalid order received.
-root - INFO - 2023-05-25 07:35:34.453830 - Order response: Invalid order.
-root - INFO - 2023-05-25 07:35:35.470473 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'BUY'}
-root - ERROR - 2023-05-25 07:35:37.527282 - Invalid order received.
-root - INFO - 2023-05-25 07:35:37.530337 - Order response: Invalid order.
-root - INFO - 2023-05-25 07:35:38.537416 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'EICHER', 'POSITION': 'SELL'}
-root - ERROR - 2023-05-25 07:35:40.584362 - Invalid order received.
-root - INFO - 2023-05-25 07:35:40.588369 - Order response: Invalid order.
-root - INFO - 2023-05-25 07:35:41.603013 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'COFORGE', 'POSITION': 'BUY'}
-root - ERROR - 2023-05-25 07:35:43.650688 - Invalid order received.
-root - INFO - 2023-05-25 07:35:43.653687 - Order response: Invalid order.
-root - INFO - 2023-05-25 07:35:44.659324 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
-root - ERROR - 2023-05-25 07:35:46.713620 - Invalid order received.
-root - INFO - 2023-05-25 07:35:46.717620 - Order response: Invalid order.
-root - INFO - 2023-05-25 07:35:47.718148 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
-root - ERROR - 2023-05-25 07:35:49.765069 - Invalid order received.
-root - INFO - 2023-05-25 07:35:49.767072 - Order response: Invalid order.
-root - INFO - 2023-05-25 07:36:41.962524 - Order log initialized.
-root - INFO - 2023-05-25 07:36:50.333888 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
-root - ERROR - 2023-05-25 07:36:52.401899 - Invalid order received.
-root - INFO - 2023-05-25 07:36:52.403903 - Order response: Invalid order.
-root - INFO - 2023-05-25 07:36:53.415059 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'NTPC', 'POSITION': 'BUY'}
-root - INFO - 2023-05-25 07:36:55.470810 - Buy order processed.
-root - INFO - 2023-05-25 07:36:55.473817 - Order response: Buy order processed.
-root - INFO - 2023-05-25 07:36:56.489157 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
-root - ERROR - 2023-05-25 07:36:58.536908 - No buy order found for the given strategy and instrument.
-root - INFO - 2023-05-25 07:36:58.540916 - Order response: No buy order found.
-root - INFO - 2023-05-25 07:36:59.555678 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'DMART', 'POSITION': 'BUY'}
+root - INFO - 2023-05-25 16:05:20.079133 - Generating user profiles.
+root - INFO - 2023-05-25 16:05:20.119508 - User profiles generated.
+root - INFO - 2023-05-25 16:05:27.503803 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'COFORGE', 'POSITION': 'BUY'}
+root - ERROR - 2023-05-25 16:05:29.593109 - The given instrument does not belongs to particular stretegy
+root - INFO - 2023-05-25 16:05:29.595664 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:05:30.602587 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'BUY'}
+root - ERROR - 2023-05-25 16:05:32.656789 - The given strategy is not present in any of the user_profile
+root - INFO - 2023-05-25 16:05:32.660797 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:05:33.665139 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'NTPC', 'POSITION': 'BUY'}
+root - ERROR - 2023-05-25 16:05:35.713925 - The given instrument does not belongs to particular stretegy
+root - INFO - 2023-05-25 16:05:35.716977 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:05:36.731129 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'MINDA', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 16:05:38.780885 - The given strategy is not present in any of the user_profile
+root - INFO - 2023-05-25 16:05:38.784892 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:05:39.800501 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 16:05:41.854486 - the instrument has not been bought yet
+root - INFO - 2023-05-25 16:05:41.857481 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:05:42.860097 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'BUY'}
+root - INFO - 2023-05-25 16:05:44.911455 - The buy order has been placed
+root - INFO - 2023-05-25 16:05:44.915469 - Order response: Valid Order. The buy order has been placed
+root - INFO - 2023-05-25 16:05:45.922581 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 16:05:47.977273 - The given instrument does not belongs to particular stretegy
+root - INFO - 2023-05-25 16:05:47.981288 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:05:48.985826 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 16:05:51.026925 - The given instrument does not belongs to particular stretegy
+root - INFO - 2023-05-25 16:05:51.029934 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:05:52.037854 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 16:05:54.088756 - The given instrument does not belongs to particular stretegy
+root - INFO - 2023-05-25 16:05:54.091755 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:05:55.106308 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 16:05:57.165292 - the instrument has not been bought yet
+root - INFO - 2023-05-25 16:05:57.169598 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:05:58.173699 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'DMART', 'POSITION': 'BUY'}
+root - ERROR - 2023-05-25 16:06:00.225336 - The given strategy is not present in any of the user_profile
+root - INFO - 2023-05-25 16:06:00.230344 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:06:01.234720 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'JSW', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 16:06:03.288838 - The given strategy is not present in any of the user_profile
+root - INFO - 2023-05-25 16:06:03.292850 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:06:04.308172 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'INFY', 'POSITION': 'BUY'}
+root - INFO - 2023-05-25 16:06:06.356990 - The buy order has been placed
+root - INFO - 2023-05-25 16:06:06.360985 - Order response: Valid Order. The buy order has been placed
+root - INFO - 2023-05-25 16:06:07.362527 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 16:06:09.412417 - the instrument has not been bought yet
+root - INFO - 2023-05-25 16:06:09.415415 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:06:10.426142 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'L&T', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 16:06:12.467697 - The given instrument does not belongs to particular stretegy
+root - INFO - 2023-05-25 16:06:12.470146 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:06:13.476459 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'BUY'}
+root - ERROR - 2023-05-25 16:06:15.530593 - The given strategy is not present in any of the user_profile
+root - INFO - 2023-05-25 16:06:15.534599 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:06:16.549993 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 16:06:18.604312 - The given strategy is not present in any of the user_profile
+root - INFO - 2023-05-25 16:06:18.606312 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:06:19.609852 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'MINDA', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 16:06:21.667137 - The given instrument does not belongs to particular stretegy
+root - INFO - 2023-05-25 16:06:21.671145 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:06:22.673680 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'COFORGE', 'POSITION': 'BUY'}
+root - INFO - 2023-05-25 16:06:24.701902 - The buy order has been placed
+root - INFO - 2023-05-25 16:06:24.705252 - Order response: Valid Order. The buy order has been placed
+root - INFO - 2023-05-25 16:06:25.709059 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'COFORGE', 'POSITION': 'BUY'}
+root - ERROR - 2023-05-25 16:06:27.761323 - Duplicate Buy Order found
+root - INFO - 2023-05-25 16:06:27.765322 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:06:28.775149 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'INFY', 'POSITION': 'BUY'}
+root - ERROR - 2023-05-25 16:06:30.819366 - The given instrument does not belongs to particular stretegy
+root - INFO - 2023-05-25 16:06:30.823373 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:06:31.838420 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'INFY', 'POSITION': 'BUY'}
+root - ERROR - 2023-05-25 16:06:33.887858 - Duplicate Buy Order found
+root - INFO - 2023-05-25 16:06:33.891867 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:06:34.907285 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'NTPC', 'POSITION': 'BUY'}
+root - ERROR - 2023-05-25 16:06:36.957905 - The given instrument does not belongs to particular stretegy
+root - INFO - 2023-05-25 16:06:36.963151 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:06:37.968634 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 16:06:40.012783 - The given strategy is not present in any of the user_profile
+root - INFO - 2023-05-25 16:06:40.015781 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:06:41.017851 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'BUY'}
+root - ERROR - 2023-05-25 16:06:43.064942 - The given strategy is not present in any of the user_profile
+root - INFO - 2023-05-25 16:06:43.068955 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:06:44.073789 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'DMART', 'POSITION': 'BUY'}
+root - ERROR - 2023-05-25 16:06:46.128377 - The given instrument does not belongs to particular stretegy
+root - INFO - 2023-05-25 16:06:46.129376 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:06:47.139132 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'BUY'}
+root - ERROR - 2023-05-25 16:06:49.191595 - The given instrument does not belongs to particular stretegy
+root - INFO - 2023-05-25 16:06:49.195591 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:06:50.200538 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'GRASIM', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 16:06:52.257068 - the instrument has not been bought yet
+root - INFO - 2023-05-25 16:06:52.258562 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:06:53.266058 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'SELL'}
+root - INFO - 2023-05-25 16:06:55.305666 - The sell order has been placed
+root - INFO - 2023-05-25 16:06:55.309675 - Order response: Valid Order. The sell order has been placed
+root - INFO - 2023-05-25 16:06:56.313172 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'BUY'}
+root - ERROR - 2023-05-25 16:06:58.363913 - The given instrument does not belongs to particular stretegy
+root - INFO - 2023-05-25 16:06:58.366002 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:06:59.382065 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 16:07:01.436361 - the instrument has not been bought yet
+root - INFO - 2023-05-25 16:07:01.440373 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:07:02.442589 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'JSW', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 16:07:04.488594 - the instrument has not been bought yet
+root - INFO - 2023-05-25 16:07:04.491600 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:07:05.494835 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'MINDA', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 16:07:07.541965 - The given strategy is not present in any of the user_profile
+root - INFO - 2023-05-25 16:07:07.545962 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:07:08.547245 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'EICHER', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 16:07:10.588531 - The given strategy is not present in any of the user_profile
+root - INFO - 2023-05-25 16:07:10.592540 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:07:11.604596 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'BUY'}
+root - ERROR - 2023-05-25 16:07:13.642315 - The given instrument does not belongs to particular stretegy
+root - INFO - 2023-05-25 16:07:13.646307 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:07:14.650154 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 16:07:16.702047 - The given strategy is not present in any of the user_profile
+root - INFO - 2023-05-25 16:07:16.706065 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:07:17.720972 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'ACC', 'POSITION': 'BUY'}
+root - ERROR - 2023-05-25 16:07:19.772337 - The given instrument does not belongs to particular stretegy
+root - INFO - 2023-05-25 16:07:19.776331 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:07:20.792490 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 16:07:22.846548 - The given instrument does not belongs to particular stretegy
+root - INFO - 2023-05-25 16:07:22.851067 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:07:23.853437 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'BUY'}
+root - ERROR - 2023-05-25 16:07:25.894511 - The given instrument does not belongs to particular stretegy
+root - INFO - 2023-05-25 16:07:25.896519 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:07:26.908747 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'EICHER', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 16:07:28.944944 - The given instrument does not belongs to particular stretegy
+root - INFO - 2023-05-25 16:07:28.948991 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:07:29.959561 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'JSW', 'POSITION': 'BUY'}
+root - ERROR - 2023-05-25 16:07:32.003582 - The given instrument does not belongs to particular stretegy
+root - INFO - 2023-05-25 16:07:32.007589 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:07:33.023034 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'BUY'}
+root - ERROR - 2023-05-25 16:07:35.072891 - The given instrument does not belongs to particular stretegy
+root - INFO - 2023-05-25 16:07:35.075890 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:07:36.079685 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'NTPC', 'POSITION': 'BUY'}
+root - ERROR - 2023-05-25 16:07:38.128797 - The given strategy is not present in any of the user_profile
+root - INFO - 2023-05-25 16:07:38.132805 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:07:39.137564 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 16:07:41.186369 - the instrument has not been bought yet
+root - INFO - 2023-05-25 16:07:41.190384 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:07:42.196210 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'JSW', 'POSITION': 'BUY'}
+root - INFO - 2023-05-25 16:07:44.247073 - The buy order has been placed
+root - INFO - 2023-05-25 16:07:44.251173 - Order response: Valid Order. The buy order has been placed
+root - INFO - 2023-05-25 16:07:45.255650 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 16:07:47.311226 - The given instrument does not belongs to particular stretegy
+root - INFO - 2023-05-25 16:07:47.314230 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:07:48.322103 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 16:07:50.364338 - The given instrument does not belongs to particular stretegy
+root - INFO - 2023-05-25 16:07:50.366345 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:07:51.369352 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 16:07:53.427946 - the instrument has not been bought yet
+root - INFO - 2023-05-25 16:07:53.431281 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:07:54.435409 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'MINDA', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 16:07:56.486916 - the instrument has not been bought yet
+root - INFO - 2023-05-25 16:07:56.489915 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:07:57.494479 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'JSW', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 16:07:59.541262 - The given instrument does not belongs to particular stretegy
+root - INFO - 2023-05-25 16:07:59.544318 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:08:00.549618 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 16:08:02.607958 - The given instrument does not belongs to particular stretegy
+root - INFO - 2023-05-25 16:08:02.611972 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:08:03.616476 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 16:08:05.669146 - The given instrument does not belongs to particular stretegy
+root - INFO - 2023-05-25 16:08:05.673453 - Order response: Invalid_Order
+root - INFO - 2023-05-25 16:08:06.675229 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 16:08:08.722462 - The given instrument does not belongs to particular stretegy
+root - INFO - 2023-05-25 16:08:08.725468 - Order response: Invalid_Order

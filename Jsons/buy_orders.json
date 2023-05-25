@@ -1,5 +1,1 @@
-{
-    "STRATEGY_B": {
-        "NTPC": true
-    }
-}
+{"STRATEGY_B": {"COFORGE": true}, "STRATEGY_C": {"INFY": true}, "STRATEGY_F": {"JSW": true}}
