@@ -1,0 +1,66 @@
+root - INFO - 2023-05-25 07:34:32.092286 - Order log initialized.
+root - INFO - 2023-05-25 07:34:55.625182 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'NTPC', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 07:34:57.725876 - No buy order found for the given strategy and instrument.
+root - INFO - 2023-05-25 07:34:57.728640 - Order response: No buy order found.
+root - INFO - 2023-05-25 07:34:58.731984 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 07:35:00.790221 - No buy order found for the given strategy and instrument.
+root - INFO - 2023-05-25 07:35:00.794352 - Order response: No buy order found.
+root - INFO - 2023-05-25 07:35:01.809680 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'MINDA', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 07:35:03.860880 - Invalid order received.
+root - INFO - 2023-05-25 07:35:03.862884 - Order response: Invalid order.
+root - INFO - 2023-05-25 07:35:04.868193 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'L&T', 'POSITION': 'BUY'}
+root - ERROR - 2023-05-25 07:35:06.924799 - Invalid order received.
+root - INFO - 2023-05-25 07:35:06.927811 - Order response: Invalid order.
+root - INFO - 2023-05-25 07:35:07.930587 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'GRASIM', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 07:35:09.984854 - Invalid order received.
+root - INFO - 2023-05-25 07:35:09.987861 - Order response: Invalid order.
+root - INFO - 2023-05-25 07:35:10.993521 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 07:35:13.045550 - No buy order found for the given strategy and instrument.
+root - INFO - 2023-05-25 07:35:13.048548 - Order response: No buy order found.
+root - INFO - 2023-05-25 07:35:14.051762 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'EICHER', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 07:35:16.098281 - No buy order found for the given strategy and instrument.
+root - INFO - 2023-05-25 07:35:16.101281 - Order response: No buy order found.
+root - INFO - 2023-05-25 07:35:17.102756 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'BUY'}
+root - INFO - 2023-05-25 07:35:19.146484 - Buy order processed.
+root - INFO - 2023-05-25 07:35:19.149615 - Order response: Buy order processed.
+root - INFO - 2023-05-25 07:35:20.154806 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 07:35:22.213037 - Invalid order received.
+root - INFO - 2023-05-25 07:35:22.215029 - Order response: Invalid order.
+root - INFO - 2023-05-25 07:35:23.224931 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'MINDA', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 07:35:25.282281 - Invalid order received.
+root - INFO - 2023-05-25 07:35:25.284456 - Order response: Invalid order.
+root - INFO - 2023-05-25 07:35:26.290982 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'INFY', 'POSITION': 'BUY'}
+root - ERROR - 2023-05-25 07:35:28.341028 - Invalid order received.
+root - INFO - 2023-05-25 07:35:28.343086 - Order response: Invalid order.
+root - INFO - 2023-05-25 07:35:29.360275 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 07:35:31.409722 - Invalid order received.
+root - INFO - 2023-05-25 07:35:31.411728 - Order response: Invalid order.
+root - INFO - 2023-05-25 07:35:32.414393 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 07:35:34.451830 - Invalid order received.
+root - INFO - 2023-05-25 07:35:34.453830 - Order response: Invalid order.
+root - INFO - 2023-05-25 07:35:35.470473 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'BUY'}
+root - ERROR - 2023-05-25 07:35:37.527282 - Invalid order received.
+root - INFO - 2023-05-25 07:35:37.530337 - Order response: Invalid order.
+root - INFO - 2023-05-25 07:35:38.537416 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'EICHER', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 07:35:40.584362 - Invalid order received.
+root - INFO - 2023-05-25 07:35:40.588369 - Order response: Invalid order.
+root - INFO - 2023-05-25 07:35:41.603013 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'COFORGE', 'POSITION': 'BUY'}
+root - ERROR - 2023-05-25 07:35:43.650688 - Invalid order received.
+root - INFO - 2023-05-25 07:35:43.653687 - Order response: Invalid order.
+root - INFO - 2023-05-25 07:35:44.659324 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 07:35:46.713620 - Invalid order received.
+root - INFO - 2023-05-25 07:35:46.717620 - Order response: Invalid order.
+root - INFO - 2023-05-25 07:35:47.718148 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 07:35:49.765069 - Invalid order received.
+root - INFO - 2023-05-25 07:35:49.767072 - Order response: Invalid order.
+root - INFO - 2023-05-25 07:36:41.962524 - Order log initialized.
+root - INFO - 2023-05-25 07:36:50.333888 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 07:36:52.401899 - Invalid order received.
+root - INFO - 2023-05-25 07:36:52.403903 - Order response: Invalid order.
+root - INFO - 2023-05-25 07:36:53.415059 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'NTPC', 'POSITION': 'BUY'}
+root - INFO - 2023-05-25 07:36:55.470810 - Buy order processed.
+root - INFO - 2023-05-25 07:36:55.473817 - Order response: Buy order processed.
+root - INFO - 2023-05-25 07:36:56.489157 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - ERROR - 2023-05-25 07:36:58.536908 - No buy order found for the given strategy and instrument.
+root - INFO - 2023-05-25 07:36:58.540916 - Order response: No buy order found.
+root - INFO - 2023-05-25 07:36:59.555678 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'DMART', 'POSITION': 'BUY'}

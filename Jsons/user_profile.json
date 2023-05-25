@@ -1,0 +1,87 @@
+{
+    "Marlee Maxwell": {
+        "STRATEGY_B": [
+            "DMART",
+            "BIRLASOFT",
+            "ADANIENT",
+            "COFORGE",
+            "NTPC",
+            "L&T",
+            "POWERGRID"
+        ]
+    },
+    "Sage Morales": {
+        "STRATEGY_D": [
+            "COFORGE",
+            "ADANIENT",
+            "INFY",
+            "ACC",
+            "EICHER"
+        ],
+        "STRATEGY_I": [
+            "MINDA",
+            "NTPC",
+            "POWERGRID",
+            "HINDALCO"
+        ],
+        "STRATEGY_E": [
+            "JSW",
+            "EICHER",
+            "ADANIENT",
+            "DMART",
+            "L&T",
+            "COFORGE",
+            "INFY",
+            "HINDALCO"
+        ],
+        "STRATEGY_H": [
+            "ACC",
+            "ADANIENT"
+        ],
+        "STRATEGY_G": [
+            "INFY",
+            "BIRLASOFT",
+            "GRASIM",
+            "HINDALCO",
+            "MINDA",
+            "ACC"
+        ],
+        "STRATEGY_F": [
+            "HINDALCO",
+            "L&T",
+            "MINDA",
+            "COFORGE",
+            "GRASIM",
+            "POWERGRID",
+            "NTPC",
+            "EICHER"
+        ]
+    },
+    "Amber Harvey": {
+        "STRATEGY_A": [
+            "EICHER",
+            "DMART",
+            "ADANIENT",
+            "L&T",
+            "POWERGRID",
+            "HINDALCO",
+            "ACC",
+            "INFY"
+        ],
+        "STRATEGY_G": [
+            "INFY",
+            "BIRLASOFT",
+            "GRASIM",
+            "HINDALCO",
+            "MINDA",
+            "ACC"
+        ],
+        "STRATEGY_D": [
+            "COFORGE",
+            "ADANIENT",
+            "INFY",
+            "ACC",
+            "EICHER"
+        ]
+    }
+}
